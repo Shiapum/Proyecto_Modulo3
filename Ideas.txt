@@ -1,6 +1,8 @@
 En este documento podremos poner las ideas que tenemos para nuestro proyecto.
 
 -Un tamagochi
+	Para el tamagochi podriamos usar el Raspeberry Pi con una pantalla tactil que nos permita 	jugar con el presencialmente o usando el modulo de wifi o de bluetooth tratar de poder 		controlarlo con una aplicacion movil. De esa manera no se nos moriria nuestro tamagochi. 
+
 -Un control de seguridad
 -Deteccion de un dispositivo Android via Bluetooth y conexion automatica
 -Rango de conexion via Bluetooth para activar alarma del coche
