@@ -1,2 +1,3 @@
 -Opino que podriamos instrumentar un carrito de control remoto
 -Podemos intentar jugar con un acelerometroy prender alguna matriz de leds con patrones segun el movimiento, sensando con una raspberry
+-Ya me quede sin ideas
